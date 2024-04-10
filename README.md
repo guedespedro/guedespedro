@@ -1,7 +1,7 @@
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Atualmente envolvido com front-end
 - 🌱 Estudando react
-- 📫 How to reach me: pedroguazevedo123@gmail.com
+- 📫 Contato: pedroguazevedo123@gmail.com
 
 
 <div style="display: inline_block"><br>
