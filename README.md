@@ -22,3 +22,5 @@
 </div>
 
 [![Pedro's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedro-guedes-de-azevedo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/pedro-guedes-de-azevedo/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-guedes-de-azevedo&layout=compact)
