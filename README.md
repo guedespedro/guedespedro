@@ -20,3 +20,5 @@
   <a href = "mailto:pedroguazevedo123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-guedes-de-azevedo-70aa84265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Pedro's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedro-guedes-de-azevedo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/pedro-guedes-de-azevedo/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
