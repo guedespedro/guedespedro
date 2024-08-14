@@ -22,8 +22,8 @@
 </div>
 
  <div>
-<a href="https://github.com/pedro-guedes-de-azevedo">
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-guedes-de-azevedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="160em" width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-guedes-de-azevedo&layout=compact&langs_count=16&theme=dracula"/>
+<a href="https://github.com/guedespedro">
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=guedespedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="160em" width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespedro&layout=compact&langs_count=16&theme=dracula"/>
 </a>
 </div>
